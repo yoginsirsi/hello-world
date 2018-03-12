@@ -1,2 +1,3 @@
 # hello-world
-trying it out
+After a long time
+Trying our programming.
